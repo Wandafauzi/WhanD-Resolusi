@@ -4,3 +4,4 @@ rencana 2025
  -jurnaling
 -rajin sholat
 -bisa javascript
+-asah kodingan
